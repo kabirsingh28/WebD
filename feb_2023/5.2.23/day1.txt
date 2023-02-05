@@ -1,2 +1,0 @@
-continued WebD
-learned about client server model,

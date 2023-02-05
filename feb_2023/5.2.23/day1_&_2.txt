@@ -1,0 +1,2 @@
+continued WebD
+learned about client server model, HTML structure, elements, attributes(intro) with examples
