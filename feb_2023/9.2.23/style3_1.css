@@ -1,0 +1,15 @@
+.papa{
+    position: relative;
+    text-align: center;
+    border: 5px solid;
+    margin: auto;
+    width: 200px;
+    padding: 50px;
+}
+
+.child{
+    position: absolute;
+    bottom: 0px;
+    left: 50px;
+    border: 2px solid;
+}
