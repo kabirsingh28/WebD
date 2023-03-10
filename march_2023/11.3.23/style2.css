@@ -8,17 +8,18 @@ body {
 }
 
 header {
+    z-index: 1;
+    position: sticky;
+    top: 10px;
     border: 2px solid black;
     width: 90%;
     margin: auto;
-    background-color: black;
+    background-color: grey;
     border-radius: 20px;
 
 }
 
 header img {
-    position: sticky;
-    top: 10px;
     display: block;
     margin: auto;
     width: 30%;
@@ -35,6 +36,8 @@ header h3 {
 }
 
 .container {
+    z-index: 0;
+    position: relative;
     width: 90%;
     margin: auto;
     border: 2px solid black;
@@ -46,8 +49,7 @@ header h3 {
 }
 
 .box {
-    position: sticky;
-    top: 10px;
+    position: relative;
     display: inline-block;
     width: 25%;
     border: 2px solid brown;
@@ -58,7 +60,3 @@ header h3 {
     height: 250px;
 }
 
-#beta {
-    position: relative;
-    top: -40px;
-}
