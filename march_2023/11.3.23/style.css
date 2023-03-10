@@ -1,0 +1,27 @@
+
+
+.nav{
+    border: 2px solid black;
+    margin: 20px 10px 10px;
+    border-radius: 10px;
+    height: 40px;
+    padding: 0px;
+}
+
+.nav li{
+    display: inline;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    border: 2px solid red;
+}
+
+.search{
+    float: right;
+    color: red;
+}
+
+.nav input{
+    border: 4px solid red;
+    border-radius: 10px;
+    padding: 10px;
+}
