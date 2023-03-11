@@ -1,0 +1,18 @@
+#box{
+    border: 2px solid black;
+    width: 200px;
+    height: 400px;
+    margin: auto;
+    text-align: center; 
+    background-color: aqua;
+    transition-property: width, background-color, border-radius;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 0s;
+}
+
+#box:hover{
+    background-color: purple;
+    width: 500px;
+    border-radius: 50% ;
+}
