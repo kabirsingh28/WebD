@@ -1,0 +1,2 @@
+Day-18 || Github - terminology explanation and working to push, pull, commit and more with commands.
+Day-19 || SSH github, CLI, readme file generator, Linux commands and project deployment
