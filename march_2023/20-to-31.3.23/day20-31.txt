@@ -1,1 +1,2 @@
 Day-20 || Introduction to Javascript, Dsiplay output, Document object model
+Day-21 || Javascript variables, operators, Data-Types with examples
