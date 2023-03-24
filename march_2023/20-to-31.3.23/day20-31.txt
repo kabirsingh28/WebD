@@ -1,2 +1,4 @@
 Day-20 || Introduction to Javascript, Dsiplay output, Document object model
 Day-21 || Javascript variables, operators, Data-Types with examples
+Day-22 || Javascript functions and scope, global,functional and lexical scope
+Day-23 || Javascript array, objects, class with constructor with examples
